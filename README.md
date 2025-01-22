@@ -3,7 +3,7 @@
 ---
 
 # **🚀 Katlego Monama**  
-**Self-Taught Software Engineer |Product Designer | Project Manager | AI DATA Enthusiast
+**Self-Taught Software Engineer | Product Designer | Project Manager | AI DATA Enthusiast
   
 
 
