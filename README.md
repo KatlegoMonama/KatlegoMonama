@@ -4,7 +4,7 @@
 
 # **🚀 Katlego Monama**  
 **Self-Taught Software Engineer | Project Manager | AI DATA Enthusiast
-problem solver with a passion for **technology & Statistcs**   
+  
 
 
 
