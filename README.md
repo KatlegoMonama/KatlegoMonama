@@ -2,7 +2,7 @@
 ---
 
 # **🚀 Katlego Monama**  
-**Self-Taught Software Engineer | Project Manager | Innovator**  
+**Self-Taught Software Engineer | Project Manager | AI Innovator**  
 
 ![Header Image](https://source.unsplash.com/1600x400/?technology,future)  
 
