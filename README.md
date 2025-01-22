@@ -1,4 +1,4 @@
-Got it! Here’s the updated **GitHub README template** including the **Focus** and **Recommendation** sections under each field, with images as buttons and links to blogs. This structure also emphasizes the focus areas of each field and provides recommendations for modern issues relating to technology and finance.
+
 
 ---
 
@@ -27,63 +27,63 @@ Hi! I’m Katlego Monama, a **self-taught Software Engineer** and **Project Mana
 
 Click the images to discover blogs and resources in these fields:  
 
-### ** Software Engineering**  
-![Software Engineering](https://source.unsplash.com/800x200/?programming,coding)  
+### **👨‍💻 Software Engineering**  
+
 **Focus:** Building scalable, maintainable software systems with clean code.  
 **Recommendation:** Stay updated with **Test-Driven Development (TDD)** and **AI-assisted coding**.  
 🔗 [Read more about Software Engineering](https://www.freecodecamp.org/news/)  
 
 ---
 
-### ** Project Management**  
-![Project Management](https://source.unsplash.com/800x200/?teamwork,planning)  
+### **📊 Project Management**  
+ 
 **Focus:** Streamlining processes, leading teams, and meeting project deadlines.  
 **Recommendation:** Implement **Agile methodologies** and use **collaborative tools** to increase efficiency.  
 🔗 [Learn Project Management Essentials](https://asana.com/resources/project-management)  
 
 ---
 
-### ** Forex Trading**  
-![Forex Trading](https://source.unsplash.com/800x200/?forex,finance)  
+### **💱 Forex Trading**  
+
 **Focus:** Analyzing and trading in the foreign exchange market.  
 **Recommendation:** Explore **automated trading systems** and use **AI-powered trading bots** for more effective strategies.  
 🔗 [Get Started with Forex Trading](https://www.babypips.com/)  
 
 ---
 
-### ** AI & Machine Learning**  
-![AI and Machine Learning](https://source.unsplash.com/800x200/?artificial-intelligence,robotics)  
+### **💡 AI & Machine Learning**  
+ 
 **Focus:** Developing intelligent systems using machine learning models.  
 **Recommendation:** Dive into **Deep Learning**, **NLP**, and **AI ethics** for better, more responsible AI solutions.  
 🔗 [AI for Beginners](https://machinelearningmastery.com/start-here/)  
 
 ---
 
-### ** Finance & Business Management**  
-![Finance and Business](https://source.unsplash.com/800x200/?business,finance)  
+### **💸 Finance & Business Management**  
+ 
 **Focus:** Managing financial strategies and growing businesses with data-driven decisions.  
 **Recommendation:** Leverage **blockchain** for transparency and use **financial AI tools** for predictive analytics.  
 🔗 [Finance Tips for Entrepreneurs](https://hbr.org/topics/financial-management)  
 
 ---
 
-### ** API Development**  
-![API Development](https://source.unsplash.com/800x200/?api,technology)  
+### **⚙️ API Development**  
+ 
 **Focus:** Designing and integrating APIs for seamless communication between systems.  
 **Recommendation:** Transition to **GraphQL** for flexible querying and consider **API security best practices**.  
 🔗 [Learn to Build APIs](https://realpython.com/api-integration-in-python/)  
 
 ---
 
-### ** Law & Tech**  
-![Law and Technology](https://source.unsplash.com/800x200/?law,technology)  
+### **⚖️ Law & Tech**  
+  
 **Focus:** Merging legal practices with innovative technology solutions.  
 **Recommendation:** Explore **Smart Contracts** on **blockchain** and **AI for contract analysis**.  
 🔗 [How Tech is Changing Law](https://law.stanford.edu/codex/)  
 
 ---
 
-## ** Futuristic Skills**  
+## **🌌 Futuristic Skills**  
 
 - **Programming Languages:** Python | JavaScript | SQL | PHP  
 - **Creative Tools:** Photoshop | Blender | Unreal Engine  
@@ -92,7 +92,7 @@ Click the images to discover blogs and resources in these fields:
 
 ---
 
-## ** Goals for the Future**  
+## **🌟 Goals for the Future**  
 
 1. Create **innovative web solutions** that combine AI, design, and usability.  
 2. Foster a **community of learners** through blogs and interactive content.  
@@ -100,7 +100,7 @@ Click the images to discover blogs and resources in these fields:
 
 ---
 
-## ** Get in Touch**  
+## **📬 Get in Touch**  
 
 Let’s collaborate on **futuristic projects** and **team-oriented solutions**!  
 
