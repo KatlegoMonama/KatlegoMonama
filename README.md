@@ -35,7 +35,6 @@ Hi! I’m Katlego Monama, a **self-taught Software Engineer** and **Project Mana
 ##Blender, Unreal Engine, Adobe Suite (Photoshop, Illustrator, After Effects)##
 ---
 
-Here's an updated version of the **About Me** section, demonstrating how your skills and expertise in these fields help your clients:
 
 ---
 
