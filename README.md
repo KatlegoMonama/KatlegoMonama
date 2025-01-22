@@ -3,9 +3,11 @@
 ---
 
 # **🚀 Katlego Monama**  
-**Self-Taught Software Engineer | Project Manager | Innovator**  
+**Self-Taught Software Engineer | Project Manager **
+| AI Innovator & DATA Enthusiastic 
+problem solver with a passion for **technology**   
 
-![Header Image](https://source.unsplash.com/1600x400/?technology,future)  
+
 
 📍 **Based in:** Soshanguve, Pretoria, South Africa  
 ✉️ **Contact:** [info@grubnchill.co.za](mailto:info@grubnchill.co.za)  
@@ -121,26 +123,32 @@ Let’s collaborate on **futuristic projects** and **team-oriented solutions**!
   - [Grub n Chill](https://grubnchill.co.za)  
 - 🐦 Twitter: [@katlego_monama](#)  
 
-![Footer Image](https://source.unsplash.com/1600x200/?futuristic,teamwork)  
+Here’s the updated version with the **MacFlurry** removed:
 
 ---
-Here’s an example of an SQL query with sample data to analyze what products sell best at a restaurant like McDonald's, focusing on **fries**, and showing how analyzing data can improve profits for businesses:
 
-### Sample Data: `sales_data`
+```markdown
+# Grub n Chill - Business Analytics
 
-| product_id | product_name | cost_price | selling_price | quantity_sold | date       |
-|------------|--------------|------------|---------------|---------------|------------|
-| 1          | Fries        | 2.50       | 25.00         | 200           | 2025-01-01 |
-| 2          | Burger       | 5.00       | 50.00         | 150           | 2025-01-01 |
-| 3          | McFlurry     | 3.00       | 30.00         | 100           | 2025-01-01 |
-| 4          | Fries        | 2.50       | 25.00         | 300           | 2025-01-02 |
-| 5          | Burger       | 5.00       | 50.00         | 200           | 2025-01-02 |
-| 6          | McFlurry     | 3.00       | 30.00         | 150           | 2025-01-02 |
-| 7          | Fries        | 2.50       | 25.00         | 250           | 2025-01-03 |
-| 8          | Burger       | 5.00       | 50.00         | 100           | 2025-01-03 |
-| 9          | McFlurry     | 3.00       | 30.00         | 120           | 2025-01-03 |
+## About Me
 
-### SQL Query to Calculate Profit and Analyze Best-Selling Product (Fries):
+Hi, I'm Katlego Monama, a **self-taught Software Engineer** and **Project Manager** with a passion for leveraging technology to solve real-world problems. I specialize in data analysis, SQL queries, and implementing business optimization strategies for both **small and large businesses**. My goal is to help businesses like yours maximize their profits and streamline their operations through intelligent use of data and technology.
+
+With experience in **product design**, **branding**, **motion graphics**, and **audio-visual design**, I enjoy mixing creative technologies to deliver unique business solutions. I am here to help you understand how business analytics can provide insights into your operations, identify opportunities for growth, and optimize profitability.
+
+---
+
+## Business Analytics
+
+This project focuses on **data-driven business optimization** for small to large businesses. Specifically, I will demonstrate how **sales data** can be used to increase profitability in a fast-food restaurant context, such as **Grub n Chill**.
+
+By using **SQL queries**, we analyze the cost structure of products, identify which products are the most profitable, and suggest actions to optimize profits. One example of this is the **fries** at a fast-food restaurant, which, due to its low cost and high margin, can drive significant profit.
+
+---
+
+## SQL Query Example
+
+Below is an example SQL query used to analyze **sales data** and calculate the profit margin for various products sold at a restaurant.
 
 ```sql
 -- Calculate the profit for each product and analyze what sells best
@@ -159,60 +167,75 @@ ORDER BY
     total_profit DESC;
 ```
 
-### Explanation of the SQL Query:
-1. **`SUM(quantity_sold)`**: Calculates the total quantity sold for each product.
-2. **`AVG(cost_price)`**: Calculates the average cost price of the product.
-3. **`AVG(selling_price)`**: Calculates the average selling price of the product.
-4. **`(AVG(selling_price) - AVG(cost_price)) * SUM(quantity_sold)`**: Calculates the total profit made on each product.
-5. **`(AVG(selling_price) - AVG(cost_price)) / AVG(cost_price) * 100`**: Calculates the profit margin percentage for each product.
+This SQL query groups products by name and calculates the **total profit** and **profit margin percentage** based on the **cost price** and **selling price**.
 
-### Sample Result:
-
-| product_name | total_quantity_sold | average_cost_price | average_selling_price | total_profit | profit_margin_percentage |
-|--------------|---------------------|--------------------|-----------------------|--------------|--------------------------|
-| Fries        | 750                 | 2.50               | 25.00                 | 17,187.50    | 900%                     |
-| Burger       | 450                 | 5.00               | 50.00                 | 20,250.00    | 900%                     |
-| McFlurry     | 370                 | 3.00               | 30.00                 | 11,100.00    | 900%                     |
-
-### Business Insights:
-
-- **Fries**: From the SQL query, you can see that the **fries** are performing well, with a **900% profit margin**. The business is making **significant profits** from fries, given that the **cost price is only 2.50**, while the selling price is **25.00**.
-  
-  **Recommendation for Business**:  
-  - **Increase production and promotion of fries** since it yields a high return. You may want to explore optimizing the **supply chain** to reduce costs and increase margins even further. Additionally, offering **combo meals** that include fries at a discount can help increase their sales volume.
-  
-- **Burgers and McFlurries**: Both **burgers** and **McFlurries** have the same **900% profit margin**, but the total sales from fries seem to be higher due to the larger quantity sold.
+For detailed analysis on **business optimizations**, check out my [**Business Insights Blog**](https://your-blog-link.com).
 
 ---
 
-## How Analyzing Data Can Improve Business Profits
+## Profit Margin Analysis
 
-Analyzing sales data in this way gives **valuable insights** into which products provide the most profit and where adjustments can be made to improve the **profit margin**:
+Let’s break down the profit margins for some key items at **Grub n Chill**:
 
-### Solutions to Improve Profits:
+### 1. **Fries**
 
-1. **Cost Optimization**:
-   - Regularly analyze cost prices to identify areas for cost reduction, such as sourcing cheaper ingredients or streamlining production processes.
+- **Cost Price per 100g**: R6.80
+- **Selling Price per 100g**: R27.20
+- **Profit Margin**: **300%**
 
-2. **Promotions and Combo Deals**:
-   - Increase sales by bundling popular items, such as fries, with high-demand items like burgers. Offering combo deals can encourage customers to purchase more.
+### 2. **Burgers**
 
-3. **Seasonal Offers**:
-   - Analyze past data to identify trends in seasonal sales and create promotions during those times. For instance, if fries consistently sell well during holidays, special promotions or discounts can increase sales further.
+- **Cost Price per Burger**: R25.00
+- **Selling Price per Burger**: R100.00
+- **Profit Margin**: **300%**
 
-4. **Menu Expansion**:
-   - Based on sales analysis, adding complementary items or variations of the most profitable products (e.g., different flavors of fries or new dipping sauces) can attract more customers.
-
-5. **Dynamic Pricing**:
-   - Adjust the pricing of items based on demand. If fries have a high profit margin, consider running limited-time pricing campaigns or adjusting prices based on peak business hours.
-
-6. **Marketing Strategies**:
-   - Use the best-selling products in targeted marketing campaigns, leveraging both online and offline channels. Promoting high-margin items like fries can boost overall sales.
+| Product      | Cost Price (per 100g) | Selling Price (per 100g) | Profit Margin (%) |
+|--------------|----------------------|--------------------------|-------------------|
+| **Fries**    | R6.80                | R27.20                   | **300%**           |
+| **Burgers**  | R25.00 (per burger)  | R100.00 (per burger)     | **300%**           |
 
 ---
 
-### Final Thoughts:
+## Key Insights
 
-Using **business analytics** like this can lead to smarter decisions and higher profitability. By understanding the relationship between **cost**, **profit margins**, and **sales volume**, businesses can take actionable steps toward optimizing their offerings and maximizing their profits.
+- **Fries**: Despite having a **300% profit margin**, they remain a high-margin product that significantly contributes to overall profits. With a **cost price of R6.80** and a **selling price of R27.20**, fries offer an affordable option for consumers while still providing a strong profit.
+  
+- **Burgers**: These items also have a **300% profit margin**, making them one of the most valuable products for both customers and the business alike. Focusing on high-margin products like these can greatly enhance profitability.
 
-This is just one example of how data analytics can be applied to business strategy. Similar approaches can be made for any product or service offered by the business, ultimately leading to **higher revenues**, **better resource management**, and **increased customer satisfaction**.
+---
+
+## How This Helps Businesses
+
+Understanding your **sales data** and **profit margins** is essential for making informed business decisions. Businesses can make smarter choices on:
+
+- **Pricing Strategies**: Adjust prices based on data to improve margins.
+- **Product Mix**: Focus on high-margin products like fries and burgers while maintaining cost-effective offerings.
+- **Cost Optimization**: Regularly monitor the cost price of products, including raw materials, labor, and overheads.
+
+By applying this approach to your own business, you can **increase profits**, **reduce waste**, and **optimize operations**.
+
+---
+
+## Recommendations for Business Growth
+
+- **Cost Optimization**: Regularly analyze costs and adjust your pricing accordingly.
+- **Promotion Strategy**: Run special promotions for high-margin products to boost sales.
+- **Menu Design**: Offer combos and meal deals that maximize customer satisfaction while increasing your revenue.
+
+For more details, check out my [full business analysis](https://your-analysis-link.com).
+
+---
+
+## Contact Me
+
+Feel free to reach out if you'd like to discuss how I can help **optimize your business** and **boost your profitability**.
+
+- **Email**: [info@grubnchill.co.za](mailto:info@grubnchill.co.za)
+- **Website**: [grubnchill.co.za](https://grubnchill.co.za)
+
+---
+
+## Conclusion
+
+By leveraging data analysis and applying business insights, this project demonstrates how **SQL queries** and business strategies can be used to boost profitability for **small** and **large businesses**. Through smart decision-making, businesses can improve margins, streamline operations, and optimize their product offerings.
+
