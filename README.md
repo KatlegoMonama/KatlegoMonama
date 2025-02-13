@@ -15,7 +15,7 @@
 - **Phone:** [+27683503416](tel:+27683503416)
 - **Email:** [Katlego@dagongap.com](mailto:Katlego@dagongap.com)
 - **Personal - Email:** [Katlegokevinmonama@gmail.com](mailto:Katlegokevinmonama@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/katlego-monama)  
+- **LinkedIn:** [linkedin.com/in/KatlegoMonama](https://linkedin.com/in/katlego-monama)  
 - **Portfolio:** [GrubnChill.co.za](https://grubnchill.com)  
 🌐 **Websites:**  
 - [🌟 Only_Nectar](https://onlynectar.co.za)  
