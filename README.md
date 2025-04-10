@@ -8,7 +8,7 @@
 
 
 
-📍 **Based in:** Soshanguve, Pretoria, South Africa  
+📍 **Based in:**  Pretoria, South Africa  
 ## 📞 **Contact**
 
 - **Name:** Katlego Monama
