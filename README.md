@@ -55,6 +55,220 @@ Here to solve real-world business challenges. My experience spans various fields
 
 As a Software Engineer, I focus on building **scalable** and **maintainable software systems** that are easy to update and improve. I implement **clean, efficient code** that supports the long-term success of businesses. My expertise in **Test-Driven Development (TDD)** and the use of **AI-assisted coding tools** allows me to deliver **high-quality software solutions** that meet clients’ unique needs.  
 
+# BASS DROP RECORDS | New Releases & Events
+
+Here is a preview of the email layout for our new releases and events:
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>BASS DROP RECORDS | New Releases & Events</title>
+  <!--[if gte mso 9]>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]-->
+  <style>
+    /* Base styles */
+    body, table, td, p, a {
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+    table, td {
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+    img {
+      -ms-interpolation-mode: bicubic;
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      display: block;
+    }
+    body {
+      background-color: #f3f4f6;
+      color: #111827;
+    }
+    
+    /* Mobile-first */
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .product-column {
+      display: block;
+      width: 100% !important;
+    }
+    
+    /* Desktop */
+    @media screen and (min-width: 480px) {
+      .product-grid {
+        display: table !important;
+        width: 100% !important;
+      }
+      .product-column {
+        display: table-cell !important;
+        width: 50% !important;
+      }
+    }
+    
+    /* Colors */
+    .bg-black { background-color: #000000 !important; }
+    .bg-purple { background-color: #6d28d9 !important; }
+    .text-white { color: #ffffff !important; }
+    .text-purple { color: #6d28d9 !important; }
+  </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f3f4f6;">
+  <!-- Hidden preheader -->
+  <div style="display: none; max-height: 0; overflow: hidden;">
+    New vinyl releases from Bass Drop Records + upcoming events in your city
+  </div>
+  
+  <table role="presentation" width="100%">
+    <tr>
+      <td align="center" style="padding: 20px 10px;">
+        <!--[if (gte mso 9)|(IE)]>
+        <table align="center" width="600">
+        <tr>
+        <td width="600">
+        <![endif]-->
+        
+        <div class="email-container" style="background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+          <!-- Header -->
+          <table role="presentation" width="100%" class="bg-black">
+            <tr>
+              <td style="padding: 30px 20px; text-align: center;">
+                <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a5d4?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=100&q=80" width="200" alt="Bass Drop Records" style="margin: 0 auto;">
+              </td>
+            </tr>
+          </table>
+          
+          <!-- Hero -->
+          <table role="presentation" width="100%">
+            <tr>
+              <td style="position: relative;">
+                <img src="https://images.unsplash.com/photo-1496293455970-f8581aae0e3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&h=300&q=80" width="100%" alt="DJ performing" style="opacity: 0.9;">
+                <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
+                  <h1 class="text-white" style="margin: 0; font-size: 28px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">NEW RELEASES + EVENTS</h1>
+                </div>
+              </td>
+            </tr>
+          </table>
+          
+          <!-- Intro -->
+          <table role="presentation" width="100%">
+            <tr>
+              <td style="padding: 30px 20px; text-align: center;">
+                <h2 style="margin: 0 0 15px; color: #111827;">Fresh Drops This Week</h2>
+                <p style="margin: 0;">Limited edition pressings - grab them before they sell out!</p>
+              </td>
+            </tr>
+          </table>
+          
+          <!-- Products -->
+          <table role="presentation" width="100%" style="background: #f9fafb;">
+            <tr>
+              <td style="padding: 20px;" class="product-grid">
+                <!-- Product 1 -->
+                <div class="product-column" style="padding: 10px;">
+                  <table role="presentation" width="100%">
+                    <tr>
+                      <td style="padding: 0 0 10px; text-align: center;">
+                        <img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80" width="100%" alt="Midnight Mirage Album" style="border-radius: 4px;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 5px; text-align: center; font-weight: bold;">MIDNIGHT MIRAGE</td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 5px; text-align: center;">The Neon Dreams</td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 15px; text-align: center;">
+                        <span style="font-weight: bold; color: #6d28d9;">$24.99</span>
+                        <span style="font-size: 12px; color: #6b7280;"> (Vinyl)</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="text-align: center;">
+                        <a href="#buy" style="background-color: #6d28d9; color: #ffffff !important; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-size: 14px; display: inline-block;">BUY NOW</a>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                
+                <!-- Product 2 -->
+                <div class="product-column" style="padding: 10px;">
+                  <table role="presentation" width="100%">
+                    <tr>
+                      <td style="padding: 0 0 10px; text-align: center;">
+                        <img src="https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80" width="100%" alt="Urban Echoes Album" style="border-radius: 4px;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 5px; text-align: center; font-weight: bold;">URBAN ECHOES</td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 5px; text-align: center;">Static Waves</td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 0 15px; text-align: center;">
+                        <span style="font-weight: bold; color: #6d28d9;">$19.99</span>
+                        <span style="font-size: 12px; color: #6b7280;"> (CD)</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="text-align: center;">
+                        <a href="#buy" style="background-color: #6d28d9; color: #ffffff !important; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-size: 14px; display: inline-block;">BUY NOW</a>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </td>
+            </tr>
+          </table>
+          
+          <!-- Footer -->
+          <table role="presentation" width="100%" class="bg-purple">
+            <tr>
+              <td style="padding: 20px; text-align: center; color: #ffffff;">
+                <p style="margin: 0;">Follow us for more updates:</p>
+                <p style="margin: 10px 0;">
+                  <a href="https://twitter.com/BassDropRecords" style="color: #ffffff; text-decoration: none; margin: 0 10px;">Twitter</a>|
+                  <a href="https://instagram.com/BassDropRecords" style="color: #ffffff; text-decoration: none; margin: 0 10px;">Instagram</a>
+                </p>
+                <p style="font-size: 12px; margin: 0;">Bass Drop Records, 2024</p>
+              </td>
+            </tr>
+          </table>
+        </div>
+        
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
 **How I Help Clients:**  
 - I develop custom applications that automate workflows, saving businesses time and money.  
 - I ensure software systems are robust and can scale as the business grows, leading to **long-term success**.  
