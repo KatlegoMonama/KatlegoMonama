@@ -3,7 +3,7 @@
 ---
 
 # **🚀 Katlego Monama**  
-**Self-Taught Software Engineer** | Product Designer | Project Manager | AI DATA Enthusiast
+**Self-Taught Data Analyst** | AI & DATA Enthusiast
   
 
 
@@ -12,8 +12,7 @@
 ## 📞 **Contact**
 
 - **Name:** Katlego Monama
-- **Phone:** [+27683503416](tel:+27683503416)
-- **Email:** [Kevinmonama24@gmail.com](mailto:Kevinmonama24@gmail.com)
+- **Phone:** [+27648192550](tel:+27648192550)
 - **Personal - Email:** [Katlegokevinmonama@gmail.com](mailto:Katlegokevinmonama@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/KatlegoMonama](https://linkedin.com/in/katlego-monama)  
 
