@@ -50,10 +50,6 @@ Here to solve real-world business challenges. My experience spans various fields
 
 ---
 
-### **👨‍💻 Software Engineering**  
-
-As a Software Engineer, I focus on building **scalable** and **maintainable software systems** that are easy to update and improve. I implement **clean, efficient code** that supports the long-term success of businesses. My expertise in **Test-Driven Development (TDD)** and the use of **AI-assisted coding tools** allows me to deliver **high-quality software solutions** that meet clients’ unique needs.  
-
 # BASS DROP RECORDS | New Releases & Events
 
 Here is a preview of the email layout for our new releases and events:
