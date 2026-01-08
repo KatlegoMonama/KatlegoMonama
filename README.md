@@ -24,7 +24,7 @@
 
 ## **👨‍💻 About Me**  
 
-Hi! I’m Katlego Monama, a **self-taught Software Engineer** and **Project Manager** passionate about technology, innovation, and delivering impactful solutions. With expertise across programming, design, and leadership, I aim to create projects that blend creativity with cutting-edge tech. Design logos, branding, brochure design, cd/dvd cover design, t-shirt design for personal or business, Business card design, package design, graphic motion design with after effects.   
+Hi! I’m Katlego Monama, a **Self-Taught Data Analyst** and passionate about technology, innovation, and delivering impactful solutions. With expertise across programming, design, and leadership, I aim to create projects that blend creativity with cutting-edge tech. Design logos, branding, brochure design, cd/dvd cover design, t-shirt design for personal or business, Business card design, package design, graphic motion design with after effects.   
 
 🌟 **Philosophy:** “Innovation thrives where creativity and technology meet.”  
 
